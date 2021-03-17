@@ -3,7 +3,7 @@
 ## Projeto NodeJs
 Substituindo o Back-end em PHP do projeto ReModa como exercício de fixação do aprendizado em desenvolvimento web
 
-### A fazer
+### Feito
 
 - [x] Configurar um servidor HTTP com Node.Js
 - [x] Realizar a conexão com o banco de dados
